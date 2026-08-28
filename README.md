@@ -54,3 +54,6 @@ The project analyzes student performance based on study hours, attendance, gende
 - SQL Querying
 - Data Visualization
 - Insight Generation
+- ## 🖼️ Dashboard Preview
+
+![Student Performance Dashboard](Student_Performance_Dashboard.jpg)
