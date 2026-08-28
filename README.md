@@ -35,11 +35,11 @@ The dataset contains student information including:
 - Performance Level
 - Pass/Fail
 
-## 📈 Project Analysis
-The project includes analysis of student performance, attendance, study hours, gender, class, parental education and other factors.
+## 📈 Analysis
+The project analyzes student performance based on study hours, attendance, gender, class, parental education and internet access.
 
 ## 🖼️ Dashboard
-The Excel dashboard provides a visual summary of student performance using charts, KPIs and interactive analysis.
+![Student Performance Dashboard](Student_Performance_Dashboard.png)
 
 ## 📁 Project Files
 - Excel dataset and analysis
@@ -53,4 +53,4 @@ The Excel dashboard provides a visual summary of student performance using chart
 - Excel Dashboard Creation
 - SQL Querying
 - Data Visualization
-- Business Insights
+- Insight Generation
